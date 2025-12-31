@@ -12,7 +12,7 @@ The application includes a deterministic Text-to-SQL agent that maps natural lan
 
 The dataset (`data/clinical_trials.csv`) is a small, curated subset modeled after common fields from public clinical trial registries (e.g., ClinicalTrials.gov). It is used locally to demonstrate SQL filtering and orchestration.
 
-## Quick start
+## Quick start (local)
 
 ```bash
 python -m venv .venv
@@ -28,6 +28,14 @@ curl -X POST http://127.0.0.1:8000/query \
   -H "Content-Type: application/json" \
   -d '{"question":"Show Phase 2 recruiting trials for Alzheimer\'s disease"}'
 ```
+
+## Docker
+
+```bash
+docker compose up --build
+```
+
+Then query the service at `http://127.0.0.1:8000/query`.
 
 ## Notes
 
