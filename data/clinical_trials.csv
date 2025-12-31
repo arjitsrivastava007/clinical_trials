@@ -1,0 +1,11 @@
+nct_id,study_title,phase,status,condition,enrollment,start_date,completion_date,sponsor
+NCT000001,Study of Drug A in Breast Cancer,Phase 2,Completed,Breast Cancer,120,2018-03-01,2020-06-30,National Cancer Institute
+NCT000002,Drug B for Type 2 Diabetes,Phase 3,Recruiting,Type 2 Diabetes,450,2021-01-15,2024-12-31,Acme Biotech
+NCT000003,Immunotherapy C in Melanoma,Phase 1,Completed,Melanoma,60,2017-09-10,2019-11-20,University Health Network
+NCT000004,Device D for Hypertension,Phase 2,Active,Hypertension,200,2020-05-20,2023-08-15,CardioTech Inc
+NCT000005,Vaccine E for Influenza,Phase 3,Completed,Influenza,800,2016-10-01,2019-03-30,Global Vaccines
+NCT000006,Drug F for Alzheimer's Disease,Phase 2,Recruiting,Alzheimer's Disease,300,2022-02-01,2026-09-30,Neuro Pharma
+NCT000007,Combination Therapy G in Lung Cancer,Phase 3,Active,Lung Cancer,520,2019-07-01,2023-12-31,Onco Research
+NCT000008,Telemedicine H for Depression,Phase 4,Completed,Depression,150,2015-04-15,2017-12-01,Behavioral Health Institute
+NCT000009,Nutritional Supplement I in Obesity,Phase 1,Completed,Obesity,45,2018-11-01,2019-10-15,Wellness Labs
+NCT000010,Drug J for Rheumatoid Arthritis,Phase 2,Recruiting,Rheumatoid Arthritis,220,2021-06-10,2025-05-20,Arthritis Foundation
