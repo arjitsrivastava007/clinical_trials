@@ -1,6 +1,6 @@
 # Clinical Trials LangChain FastAPI
 
-Production-ready FastAPI service that demonstrates a LangChain-inspired clinical trials workflow with three nodes:
+FastAPI service that demonstrates a LangChain-inspired clinical trials workflow with three nodes:
 
 - **Orchestrator** – coordinates the request lifecycle
 - **ClinOps** – operational summary of matched trials
